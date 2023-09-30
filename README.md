@@ -15,6 +15,7 @@
 
 > Na estrutura do html, foram foi utilizadas as seguintes tags:
 > <title>: Foi utilizado para definir o título de cada página;
+
   <link>: Usado para conexão com recursos externos da página;
   <div>: 
   <h1>,
