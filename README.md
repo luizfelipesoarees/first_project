@@ -8,7 +8,7 @@
 > Obs: O site não está responsivo para telas pequenas.
 
 ## </> Código
-> Antes de começar, verifique se você atendeu aos seguintes requisitos:
+> Cada página do código está com comentários dividindo a estrutura do site, para que fique mais fácil a vizualização.
 
 * Você instalou a versão mais recente de `<linguagem / dependência / requeridos>`
 * Você tem uma máquina `<Windows / Linux / Mac>`. Indique qual sistema operacional é compatível / não compatível.
