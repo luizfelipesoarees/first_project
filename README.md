@@ -1,6 +1,6 @@
 # Meu primeiro site 💻
-## Do que se trata o site?
-Esse site foi criado com o objetivo de mostrar um pouco sobre alguns jogos que me marcaram e que significam muito para mim. O site contém uma página dedicada para cada jogo, incluindo a arte, a sinopse, as informações de gameplay e onde comprar. É o meu primeiro projeto como desenvolvedor e foi uma experiência incrível. Espero que gostem! :)
+## Sobre o projeto
+Esse site foi desenvolvido com o objetivo de apresentar um pouco sobre alguns jogos que me marcaram e que significam muito para mim. O site contém uma página dedicada para cada jogo, incluindo a arte, a sinopse, as informações de gameplay e onde comprar. É o meu primeiro projeto como desenvolvedor e foi uma experiência incrível. Espero que gostem! :)
 
 ### Ajustes e melhorias
 
