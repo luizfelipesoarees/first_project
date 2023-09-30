@@ -2,8 +2,8 @@
 ## Sobre o projeto
 > Esse site foi desenvolvido com o objetivo de apresentar um pouco sobre alguns jogos que me marcaram e que significam muito para mim. O site contém uma página dedicada para cada jogo, incluindo a arte, a sinopse, as informações de gameplay e onde comprar. É o meu primeiro projeto como desenvolvedor, onde busquei ao máximo aplicar meus conhecimentos.
 
-### Funcionalidades
-> O projeto ainda está em desenvolvimento e as próximas atualizações serão voltadas nas seguintes tarefas:
+### Funcionalidades ⚙️
+> O site possui uma barra de navegação, para que a exploração fique mais prática. Cada jogo possui sua seção, onde cada página apresenta detalhes sobre o título em questão, links onde o usuário poderá efetuar compras escolhendo sua plataforma desejada.
 
 - [x] Tarefa 1
 - [x] Tarefa 2
