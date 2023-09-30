@@ -1,14 +1,6 @@
 # Meu primeiro site 💻
-
-![GitHub repo size](https://img.shields.io/github/repo-size/iuricode/README-template?style=for-the-badge)
-![GitHub language count](https://img.shields.io/github/languages/count/iuricode/README-template?style=for-the-badge)
-![GitHub forks](https://img.shields.io/github/forks/iuricode/README-template?style=for-the-badge)
-![Bitbucket open issues](https://img.shields.io/bitbucket/issues/iuricode/README-template?style=for-the-badge)
-![Bitbucket open pull requests](https://img.shields.io/bitbucket/pr-raw/iuricode/README-template?style=for-the-badge)
-
-<img src="imagem.png" alt="Exemplo imagem">
-
-> Linha adicional de texto informativo sobre o que o projeto faz. Sua introdução deve ter cerca de 2 ou 3 linhas. Não exagere, as pessoas não vão ler.
+# Do que se trata o site?
+> Esse site foi criado com o objetivo de mostrar um pouco sobre alguns jogos que me marcaram e que significam muito para mim. O site contém uma página dedicada para cada jogo, incluindo a arte, a sinopse, as informações de gameplay e onde comprar. É o meu primeiro projeto como desenvolvedor e foi uma experiência incrível. Espero que gostem! :)
 
 ### Ajustes e melhorias
 
