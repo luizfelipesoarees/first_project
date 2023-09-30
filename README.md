@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Readme Template 📜
 
 Bem-vindo(a) ao **Readme Template**! Aqui você encontrará uma variedade de modelos de readme para usar em seus repositórios e perfil no GitHub. Explore nossa coleção de templates e encontre aquele que melhor se adequa ao seu projeto. Comece agora mesmo e deixe o seu readme brilhar!
@@ -21,3 +22,7 @@ Ajude a comunidade tornando este projeto ainda mais incrível. Leia como contrib
 ## Aprenda desenvolvimento frontend ❤️
 
 Este repositório é um projeto gratuito para a comunidade de desenvolvedores, mas você pode me ajudar comprando o meu ebook "**[eFront - Estudando frontend do zero](https://iuricode.com/efront)**" se estiver interessado em aprender ou melhorar suas habilidades de desenvolvimento frontend. A sua compra me ajuda a produzir e fornecer mais conteúdo gratuito para a comunidade. Adquira agora e comece sua jornada no desenvolvimento frontend.
+=======
+# Criando meu primeiro site
+Tarefa do curso da Fatec de DSM, onde será necessário criar um site usando HTML e CSS
+>>>>>>> bc2776178ac72d13c31c8b884a9550a9085bc38d
