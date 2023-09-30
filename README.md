@@ -13,4 +13,13 @@
 ## </> Código
 > Cada página do código está com comentários dividindo a estrutura do site, para que fique mais fácil a visualização.
 
-> No html foi utilizado as tags title, link, div, h1, a
+> Na estrutura do html, foram foi utilizadas as seguintes tags:
+> <title>: Foi utilizado para definir o título de cada página;
+  <link>: Usado para conexão com recursos externos da página;
+  <div>: 
+  <h1>,
+  <p>,
+  <a>,
+  <img>,
+  <button>,
+  <footer>
