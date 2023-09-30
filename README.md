@@ -8,15 +8,16 @@
 > Obs: O site não está responsivo para telas pequenas.
 
 ## </> Código
-> Cada página do código está com comentários dividindo a estrutura do site, para que fique mais fácil a vizualização.
+> Cada página do código está com comentários dividindo a estrutura do site, para que fique mais fácil a visualização.
+
+> No html foi utilizado as tags title, link, div, h1, a
 
 * Você instalou a versão mais recente de `<linguagem / dependência / requeridos>`
 * Você tem uma máquina `<Windows / Linux / Mac>`. Indique qual sistema operacional é compatível / não compatível.
 * Você leu `<guia / link / documentação_relacionada_ao_projeto>`.
 
-## 🚀 Instalando <nome_do_projeto>
-
-Para instalar o <nome_do_projeto>, siga estas etapas:
+## 🌐 Visite o site
+>https://sessao-nostalgia.netlify.app/
 
 Linux e macOS:
 ```
