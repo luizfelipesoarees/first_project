@@ -1,4 +1,7 @@
 # 💻 Meu primeiro site
+## 🌐 Visite o site
+> <a href="https://sessao-nostalgia.netlify.app/" target="_blank"
+
 ## 📜 Sobre o projeto 
 > Esse site foi desenvolvido com o objetivo de apresentar um pouco sobre alguns jogos que me marcaram e que significam muito para mim. O site contém uma página dedicada para cada jogo, incluindo a arte, a sinopse, as informações de gameplay e onde comprar. É o meu primeiro projeto como desenvolvedor, onde busquei ao máximo aplicar meus conhecimentos.
 
