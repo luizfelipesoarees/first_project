@@ -7,7 +7,7 @@
 
 > Obs: O site não está responsivo para telas pequenas.
 
-## 💻 Pré-requisitos
+## </> Código
 
 Antes de começar, verifique se você atendeu aos seguintes requisitos:
 
