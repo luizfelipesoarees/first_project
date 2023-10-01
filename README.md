@@ -14,12 +14,21 @@
 > Cada página do código está com comentários dividindo a estrutura do site, para que fique mais fácil a visualização.
 
 > Na estrutura do html, foram foi utilizadas as seguintes tags:
+
 > title: foi utilizado para definir o título de cada página;
+
 > link: usado para conexão com recursos externos da página;
+
 > div: foram criadas para definir uma divisão ou seção;
+
 > h1: utilizado em casos de um texto maior, em destaque;
+
 > p: criação e utilização de parágrafos;
+
 > a href: relação entre as páginas do site, conectando as URLs;
+
 > img: inserção de imagens no site;
+
 > button: foi usada para interagir ao clique do usuário, redirecionando para as páginas de compra;
+
 > footer: criação do rodapé para a separação, contendo as informações do desenvolvedor;
