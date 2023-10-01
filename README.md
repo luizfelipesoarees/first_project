@@ -11,7 +11,7 @@
 
 ## </> Código
 > Cada página do código está com comentários dividindo a estrutura do site, para que fique mais fácil a visualização.<br /><br />
-> Na estrutura do <span style="color: red">HTML</span>, foram foi utilizadas as seguintes tags:<br /><br />
+> Na estrutura do HTML, foram foi utilizadas as seguintes tags:<br /><br />
 > title: foi utilizado para definir o título de cada página;<br />
 > link: usado para conexão com recursos externos da página;<br />
 > div: foram criadas para definir uma divisão ou seção;<br />
@@ -20,4 +20,6 @@
 > a href: relação entre as páginas do site, conectando as URLs;<br />
 > img: inserção de imagens no site;<br />
 > button: foi usada para interagir ao clique do usuário, redirecionando para as páginas de compra;<br />
-> footer: criação do rodapé para a separação, contendo as informações do desenvolvedor;
+> footer: criação do rodapé para a separação, contendo as informações do desenvolvedor;<br /><br />
+> Já na estrutura do CSS, as tags utilizadas foram:<br /><br />
+
