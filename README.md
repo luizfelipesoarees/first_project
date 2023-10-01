@@ -22,4 +22,13 @@
 > button: foi usada para interagir ao clique do usuário, redirecionando para as páginas de compra;<br />
 > footer: criação do rodapé para a separação, contendo as informações do desenvolvedor;<br /><br />
 > Já na estrutura do CSS, as tags utilizadas foram:<br /><br />
-
+> border: utilizada para ajustar e personalizar as bordas;<br />
+> font-family: determinar a fonte desejada no site todo;<br />
+> font-size: tamanho da fonte;<br />
+> margin: criar a margem no lugar escolhido;<br />
+> padding: responsável por definir uma um espaço entre um elemento e sua borda;<br />
+> text-align: alinhamento do texto na página;<br />
+> text-color: definir cores ao texto;<br />
+> color: definir cor de diferentes propriedades;<br />
+> background-color: determinar cor do plano de fundo;<br />
+> display: utilizada para indicar a forma como os elementos HTML serão dispostos na página ou em espaços delimitados;
