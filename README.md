@@ -11,7 +11,7 @@
 
 ## </> Código
 > Cada página do código está com comentários dividindo a estrutura do site, para que fique mais fácil a visualização.<br /><br />
-> Na estrutura do html, foram foi utilizadas as seguintes tags:<br /><br />
+> Na estrutura do <font color="red">HTML</font>, foram foi utilizadas as seguintes tags:<br /><br />
 > title: foi utilizado para definir o título de cada página;<br />
 > link: usado para conexão com recursos externos da página;<br />
 > div: foram criadas para definir uma divisão ou seção;<br />
