@@ -13,8 +13,7 @@
 ## </> Código
 > Cada página do código está com comentários dividindo a estrutura do site, para que fique mais fácil a visualização.
 
-> Na estrutura do html, foram foi utilizadas as seguintes tags:
-
+> Na estrutura do html, foram foi utilizadas as seguintes tags:<br />
 > title: foi utilizado para definir o título de cada página;
 
 > link: usado para conexão com recursos externos da página;
