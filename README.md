@@ -1,5 +1,5 @@
 # Meu primeiro site 💻
-## 🌐 Visite o site
+## Visite o site 🌐
 > https://sessao-nostalgia.netlify.app/
 
 ## Sobre o projeto 📜
